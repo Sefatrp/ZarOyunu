@@ -1,0 +1,9 @@
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csprojResolveAssemblyReference.cache
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.Cache
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\TURK\Documents\Visual Studio 2013\Projects\ZarOyunu\ZarOyunu\obj\Debug\ZarOyunu.pdb
